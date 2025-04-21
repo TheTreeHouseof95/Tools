@@ -1,6 +1,6 @@
 
 
-If you are tired of selecting Biped body parts/pivots by a pop up menu and prefer to have your selection controls directly in the viewport then this tool may help you!
+If you are tired of selecting Biped body parts/pivots by a menu and prefer to have your selection controls directly in the viewport then this tool may help you!
 
 Bip-Animator is a helper tool for Biped animators that enables quick selection of Biped parts via flexible helpers. The helpers are completely non-destructive to any existing biped rig. 
 They are meant to work on top of any existing workflow or setup.
