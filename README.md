@@ -32,5 +32,6 @@ Current version limitations:
 - 2 - Make sure the feet have at least one key assigned to them otherwise during helper selection you may get a pop up warning (you may ignore the warning and continue).
 
 - 3 - Not recommended to select more than one helper at a time.
-
+  
+> [!NOTE]
 For further info check out this Video that demonstrates the tool and explains how it works.
