@@ -29,6 +29,11 @@ Current version limitations:
 
 - 1 - The helpers are assigned to the COM and Feet only, Hands are not yet included (may include hand pivots if there is a demand for it or in the future).
 
+
+Installation:
+Run the script or drag and drop in Max.
+You can find it under NK Tools category.
+
 - 2 - Make sure the feet have at least one key assigned to them otherwise during helper selection you may get a pop up warning (you may ignore the warning and continue).
 
 - 3 - Not recommended to select more than one helper at a time.
