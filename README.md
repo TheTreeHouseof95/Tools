@@ -1,5 +1,11 @@
 
 
+Installation:
+Run the script or drag and drop in Max.
+You can find it under NK Tools category.
+
+Info:
+
 If you are tired of selecting Biped body parts/pivots by a menu and prefer to have your selection controls directly in the viewport then this tool may help you!
 
 Bip-Animator is a helper tool for Biped animators that enables quick selection of Biped parts via flexible helpers. The helpers are completely non-destructive to any existing biped rig. 
@@ -30,9 +36,6 @@ Current version limitations:
 - 1 - The helpers are assigned to the COM and Feet only, Hands are not yet included (may include hand pivots if there is a demand for it or in the future).
 
 
-Installation:
-Run the script or drag and drop in Max.
-You can find it under NK Tools category.
 
 - 2 - Make sure the feet have at least one key assigned to them otherwise during helper selection you may get a pop up warning (you may ignore the warning and continue).
 
