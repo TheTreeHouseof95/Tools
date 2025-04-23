@@ -42,4 +42,6 @@ Current version limitations:
 - 3 - Not recommended to select more than one helper at a time.
   
 > [!NOTE]
-For further info check out this Video that demonstrates the tool and explains how it works.
+For further info check out this Video that demonstrates the tool and explains how it works: 
+
+https://www.youtube.com/watch?v=XNE-PNX7ugw&ab_channel=TheTreeHouse
